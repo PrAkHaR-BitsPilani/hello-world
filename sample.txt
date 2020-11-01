@@ -1,1 +1,2 @@
 this is a file with no content
+this is no content
